@@ -1,7 +1,7 @@
 # Development Links
 
 ## Azure
-https://github.com/preddy727?tab=repositories
+https://github.com/preddy727?tab=repositories [ Preddy is one of our Azure clour Architects ]
 
 ## Cloud Native
 
