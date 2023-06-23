@@ -1,8 +1,6 @@
 
 
-[cloud.md](cloud.md)
-
-[coding.md](coding.md)
-
-[cybersec.md](cybersec.md)
+1. [cloud](cloud.md)
+1. [coding](coding.md)
+1. [cybersec](cybersec.md)
 
