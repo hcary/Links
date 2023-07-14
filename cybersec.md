@@ -21,6 +21,7 @@
 
   1. [Klint Walker | Western CyberSecurity Conference March 16th, 2022](https://www.youtube.com/watch?v=XZMk3_PeKH0)
   1. [CISA](https://www.cisa.gov/)
+  1. [Shields Up](https://www.cisa.gov/shields-up)
   
 <br>
 <hr>
