@@ -4,3 +4,6 @@
 
 [Open Assistant](https://open-assistant.io/)
 
+<br>
+<hr>
+[Return to README](README.md)
