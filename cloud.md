@@ -17,5 +17,7 @@
  1. https://github.com/palimarium/istio-vault-ca
 
   
-  
-[README.md](README.md)
+<br>
+<hr>
+
+[Return to README.md](README.md)
