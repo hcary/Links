@@ -22,7 +22,29 @@
   1. [Klint Walker | Western CyberSecurity Conference March 16th, 2022](https://www.youtube.com/watch?v=XZMk3_PeKH0)
   1. [CISA](https://www.cisa.gov/)
   1. [Shields Up](https://www.cisa.gov/shields-up)
-  
+
+# Cyber Security Training
+
+1. [HackXpert - Free labs and training.](https://labs.hackxpert.com/)
+1. [TryHackMe - Hands-on exercises and labs.](https://tryhackme.com/)
+1. [CyberSecLabs - High quality training labs.](https://cyberseclabs.io/)
+1. [Cybrary - Videos, labs, and practice exams.](https://www.cybrary.it/)
+1. [LetsDefend - Blue team training platform.](https://letsdefend.io/)
+1. [Root Me - Over 400 cybersecurity challenges.](https://www.root-me.org/?lang=en)
+1. [RangeForce - Interactive and hands-on platform.](https://www.rangeforce.com/)
+1. [Certified Secure - Loads of different challenges.](https://www.certifiedsecure.com/frontpage)
+1. [Vuln Machines - Real world scenarios to practice.](https://vulnmachines.com/)
+1. [Try2Hack - Play a game based on the real attacks.](https://try2hack.me/)
+1. [TCM Security - Entry level courses for cybersecurity.](https://tcm-sec.com/)
+1. [EchoCTF - Train your offensive and defensive skills.](https://echoctf.com/)
+1. [Hack The Box - Cybersecurity training platform.](https://www.hackthebox.com/)
+1. [Vuln Hub - Material for hands-on experience.](https://www.vulnhub.com/)
+1. [OverTheWire - Security concepts via challenges.](https://overthewire.org/wargames/)
+1. [PentesterLab - Learn web-app penetration testing.](https://www.pentesterlab.com/)
+1. [PortSwigger Web Security - General learning.](https://portswigger.net/web-security)
+1. [Geeksforgeeks](https://www.geeksforgeeks.org/)
+1. [Codelivly](https://www.codelivly.com/)
+   
 <br>
 <hr>
 
