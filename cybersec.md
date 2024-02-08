@@ -44,7 +44,20 @@
 1. [PortSwigger Web Security - General learning.](https://portswigger.net/web-security)
 1. [Geeksforgeeks](https://www.geeksforgeeks.org/)
 1. [Codelivly](https://www.codelivly.com/)
-   
+
+# Youtube
+
+1. [The Cyber Mentor](https://www.youtube.com/@TCMSecurityAcademy)
+1. [CISA](https://www.youtube.com/@CISAgov)
+1. [LS111 Cyber Security Education](https://www.youtube.com/@ls111cyberEd)
+1. [The Cyber Security Zone](https://www.youtube.com/@thecybersecurityzone)
+1. [Cyber Threat Bulletin](https://www.youtube.com/@CyberThreatBulletin-DR)
+1. [Hak5](https://www.youtube.com/@hak5)
+1. [Gerald Auger, PhD - Simply Cyber](https://www.youtube.com/@SimplyCyber)
+
+
+
+
 <br>
 <hr>
 
