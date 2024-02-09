@@ -1,7 +1,7 @@
 # AI Links
 
 
-
+1. [DeepLearning.AI Short Courses](https://learn.deeplearning.ai/)
 1. [Learn Prompting](https://learnprompting.org/_)
 2. [Awesome GPTs (Agents) for Cybersecurity](https://github.com/fr0gger/Awesome-GPT-Agents)
 3. [Open Assistant](https://open-assistant.io/)

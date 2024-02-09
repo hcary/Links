@@ -6,6 +6,8 @@
 1. [InfoCon - Hacking Conference Archive](https://infocon.org/)
 1. [DEFCON](https://defcon.org/)
 1. [blackhat](https://www.blackhat.com/)
+1. [Cybersecurity Conferences in North Carolina](https://infosec-conferences.com/us-state/north-carolina/)
+1. [arolinacon](https://carolinacon.org/schedule.html)
 
 
 ## Github repositories
