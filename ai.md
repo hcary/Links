@@ -1,9 +1,11 @@
 # AI Links
 
-
+1. [Artificial Analysis](https://artificialanalysis.ai/)
+    - Independent analysis of AI models and hosting providers
+    - Understand the AI landscape and choose the best model and host for your use-case
 1. [DeepLearning.AI Short Courses](https://learn.deeplearning.ai/)
 1. [Learn Prompting](https://learnprompting.org/_)
-1. [Awesome GPTs (Agents) for Cybersecurity](https://github.com/fr0gger/Awesome-GPT-Agents)
+(https://github.com/fr0gger/Awesome-GPT-Agents)
 1. [Open Assistant](https://open-assistant.io/)
 1. [OpenAI Github](https://github.com/openai)
 1. [LAION-AI open assistant](https://github.com/LAION-AI/Open-Assistant)
@@ -11,7 +13,14 @@
     - trlX is a distributed training framework designed from the ground up to focus on fine-tuning large language models with reinforcement learning using either a provided reward function or a reward-labeled dataset.
 1. [Runway](https://runwayml.com/)
     - Advancing creativity with artificial intelligence. Runway is an applied AI research company shaping the next era of art, entertainment and human creativity.
+
+# AI Models
+
+1. [ChatGPT](https://chat.openai.com/)
+1. [Grod cloud](https://console.groq.com/)
 1. [DALL-E2](https://openai.com/dall-e-2)
+1. [Awesome GPTs (Agents) for Cybersecurity](https://github.com/fr0gger/Awesome-GPT-Agents)
+
 
 ## Copilot
 1. [https://www.youtube.com/watch?v=obfs_LEzPHo](https://www.youtube.com/watch?v=obfs_LEzPHo)
