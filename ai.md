@@ -1,5 +1,15 @@
 # AI Links
 
+## AI Models
+
+1. [ChatGPT](https://chat.openai.com/)
+1. [Grod cloud](https://console.groq.com/)
+1. [DALL-E2](https://openai.com/dall-e-2)
+1. [Awesome GPTs (Agents) for Cybersecurity](https://github.com/fr0gger/Awesome-GPT-Agents)
+1. [Mistral](https://mistral.ai/)
+1. [Claude](https://claude.ai/chats)
+
+## Training
 1. [Artificial Analysis](https://artificialanalysis.ai/)
     - Independent analysis of AI models and hosting providers
     - Understand the AI landscape and choose the best model and host for your use-case
@@ -14,12 +24,6 @@
     - Advancing creativity with artificial intelligence. Runway is an applied AI research company shaping the next era of art, entertainment and human creativity.
 1. [Google Cloud Skills Boost](https://www.cloudskillsboost.google/)
 
-# AI Models
-
-1. [ChatGPT](https://chat.openai.com/)
-1. [Grod cloud](https://console.groq.com/)
-1. [DALL-E2](https://openai.com/dall-e-2)
-1. [Awesome GPTs (Agents) for Cybersecurity](https://github.com/fr0gger/Awesome-GPT-Agents)
 
 
 ## Copilot
