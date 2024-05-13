@@ -1,5 +1,12 @@
 # AI Links
 
+## AI News
+ 1. [AI Magazine](https://aimagazine.com/)
+ 1. [MIT News Artificial intelligence](https://news.mit.edu/topic/artificial-intelligence2)
+ 1. [Wired](https://www.wired.com/category/artificial-intelligence/)
+ 1. [Extreme Tech](https://www.extremetech.com/tag/artificial-intelligence)
+
+
 ## AI Models
 
 1. [ChatGPT](https://chat.openai.com/)
