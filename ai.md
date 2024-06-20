@@ -16,6 +16,11 @@
 1. [Mistral](https://mistral.ai/)
 1. [Claude](https://claude.ai/chats)
 
+## AI protections
+
+1. [NVIDIA/NeMo-Guardrails](https://github.com/NVIDIA/NeMo-Guardrails)
+
+
 ## Training
 1. [Artificial Analysis](https://artificialanalysis.ai/)
     - Independent analysis of AI models and hosting providers
