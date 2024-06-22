@@ -1,12 +1,9 @@
+# Links
 
 1. [AI](ai.md)
-1. [cloud](cloud.md)
-1. [coding](coding.md)
-1. [cybersec](cybersec.md)
-
-
-Sony DVD/Blu-ray Player UBP-X800M2
-DIRECTV C61K-700
-AT&T    C71KW-200
-
+2. [Copilot](copilot.md)
+3. [Certs](cert.md)
+4. [Cloud](cloud.md)
+5. [Coding](coding.md)
+6. [Cybersec](cybersec.md)
 
