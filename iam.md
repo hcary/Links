@@ -1,6 +1,6 @@
 ## Open Identity Platform
-
- - [Open Identity Platform](https://github.com/OpenIdentityPlatform)
+ - [Welcome to Open Identity Platform Community](https://www.openidentityplatform.org/)
+ - [Open Identity Platform - Github](https://github.com/OpenIdentityPlatform)
 
 
 <br>
