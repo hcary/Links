@@ -17,6 +17,10 @@
 1. [Mistral](https://mistral.ai/)
 1. [Claude](https://claude.ai/chats)
 
+## AI Security
+
+1. [OWASP Top 10 for Large Language Model Applications](https://owasp.org/www-project-top-10-for-large-language-model-applications/)
+
 ## AI protections
 
 1. [NVIDIA/NeMo-Guardrails](https://github.com/NVIDIA/NeMo-Guardrails)
