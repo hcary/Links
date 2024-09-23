@@ -17,6 +17,10 @@
 1. [Mistral](https://mistral.ai/)
 1. [Claude](https://claude.ai/chats)
 
+## LLM Routing
+1. [msys.org](https://lmsys.org/blog/2024-07-01-routellm/)
+
+
 ## AI Security
 
 1. [OWASP Top 10 for Large Language Model Applications](https://owasp.org/www-project-top-10-for-large-language-model-applications/)
