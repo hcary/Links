@@ -9,7 +9,10 @@
 1. [Cybersecurity Conferences in North Carolina](https://infosec-conferences.com/us-state/north-carolina/)
 1. [Carolinacon](https://carolinacon.org/schedule.html)
 
+## AI Frameworks
 
+ 1. [ATLAS Matrix](https://atlas.mitre.org/matrices/ATLAS)
+ 
 ## Github repositories
 
  1. [Hacker zxcr9999](https://github.com/hoaan1995)
@@ -24,6 +27,7 @@
  1. https://malicious.life/
  1. https://twit.tv/shows/security-now
  1. [Hacking and InfoSec stuff](https://archive.org/details/HackingInfoSecMisc?sort=-publicdate&&and[]=subject%3A%22covert%22&and[]=subject%3A%22hacker%22)
+ 1. [The Cyber Express](https://thecyberexpress.com/)
 
 ## CISA
 
