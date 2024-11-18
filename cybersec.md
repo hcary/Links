@@ -18,6 +18,9 @@
  1. [Hacker zxcr9999](https://github.com/hoaan1995)
  1. [security-automation](https://github.com/topics/security-automation?l=python)
 
+## Zero Trust 
+ 1. [CSA Zero Trust 2023](https://www.youtube.com/playlist?list=PLFkoMPnn5qstEGDyejCYFtSO6RzLkznjZ)
+ 
 # CyberSecurity
 
  1. https://darknetdiaries.com/
