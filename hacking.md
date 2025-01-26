@@ -7,6 +7,9 @@
 1. [DNS Stuff](https://www.dnsstuff.com/freetools)
 <br>
 
+## Attack code
+1. [Reverse Shell Generator](https://www.revshells.com/)
+
 ## Code Searching
 1. [grep.app](https://grep.app/)
 

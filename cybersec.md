@@ -9,6 +9,12 @@
 1. [Cybersecurity Conferences in North Carolina](https://infosec-conferences.com/us-state/north-carolina/)
 1. [Carolinacon](https://carolinacon.org/schedule.html)
 
+## PodCasts
+
+ 1. [The 21 Best Cybersecurity Podcasts for 2025](https://www.sans.org/blog/cybersecurity-podcast-roundup/)
+ 1. [SANS Internet Storm Center](https://isc.sans.edu/podcast.html)
+ 2. [SANS Blueprint Podcast](https://www.sans.org/podcasts/blueprint/?msc=blog-podcast-roundup)
+
 ## AI Frameworks
 
  1. [ATLAS Matrix](https://atlas.mitre.org/matrices/ATLAS)
