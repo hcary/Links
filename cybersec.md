@@ -13,8 +13,9 @@
 
  1. [The 21 Best Cybersecurity Podcasts for 2025](https://www.sans.org/blog/cybersecurity-podcast-roundup/)
  1. [SANS Internet Storm Center](https://isc.sans.edu/podcast.html)
- 2. [SANS Blueprint Podcast](https://www.sans.org/podcasts/blueprint/?msc=blog-podcast-roundup)
-
+ 1. [SANS Blueprint Podcast](https://www.sans.org/podcasts/blueprint/?msc=blog-podcast-roundup)
+ 1. [Hacker And The Fed](https://podcasts.apple.com/us/podcast/hacker-and-the-fed/id1649541362)
+   
 ## AI Frameworks
 
  1. [ATLAS Matrix](https://atlas.mitre.org/matrices/ATLAS)
