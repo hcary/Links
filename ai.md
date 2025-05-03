@@ -58,7 +58,12 @@
 1. [AI Speech](https://techcommunity.microsoft.com/t5/ai-azure-ai-services-blog/azure-ai-speech-announces-public-preview-of-text-to-speech/ba-p/3981448)
 1. [Top 10 3D](https://www.appypie.com/blog/best-ai-avatar-generators)
 
-   
+https://github.com/codespaces/new?hide_repo_select=true&ref=main&repo=776430854&skip_quickstart=true&machine=basicLinux32gb&devcontainer_path=.devcontainer%2Fgithub%2Fdevcontainer.json&geo=UsWest
+
+https://ollama.com/
+https://lmstudio.ai/
+https://poloclub.github.io/transformer-explainer/
+
 <br>
 <hr>
 
