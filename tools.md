@@ -2,7 +2,10 @@
 
  1. [Offensive Security Tool: HExHTTP](https://www.blackhatethicalhacking.com/tools/hexhttp/)
 
-   
+## Web Tools
+
+ 1. [ungoogled-chromium](https://github.com/ungoogled-software/ungoogled-chromium)
+ 
 <br>
 <hr>
 
