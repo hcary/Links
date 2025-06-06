@@ -6,6 +6,8 @@
 1. [OSINT](https://osintframework.com/)
 2. [OSINT Github](https://github.com/lockfale/OSINT-Framework)
 3. [DNS Stuff](https://www.dnsstuff.com/freetools)
+1. [anmolksachan Hacking tools](https://github.com/anmolksachan)
+1. [wayBackLister](https://github.com/anmolksachan/wayBackLister)
 <br>
 
 ## Attack code
