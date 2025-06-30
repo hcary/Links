@@ -11,6 +11,7 @@
 1. [Ollama](https://ollama.com/)
 1. [LmStudio](https://lmstudio.ai/)
 1. [Transformer Explainer](https://poloclub.github.io/transformer-explainer/)
+1. [Microsoft ModelMondays](https://github.com/microsoft/model-mondays)
 
 ## AI Models
 
