@@ -13,3 +13,4 @@
 1. [Pi-Hole](pihole.md)
 1. [Employment](employment.md)
 1. [Security Tools](tools.md)
+1. [Pentest](pentest.md)

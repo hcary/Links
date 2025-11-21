@@ -1,7 +1,7 @@
 # Cyber Security Links
 
 
-## Conferences / ARchives
+## Conferences / Archives
 
 1. [InfoCon - Hacking Conference Archive](https://infocon.org/)
 1. [DEFCON](https://defcon.org/)

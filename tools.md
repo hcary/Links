@@ -1,5 +1,6 @@
 ## Offensive Security Tools
 
+ 1. [OSINT Framework](https://osintframework.com/)
  1. [Offensive Security Tool: HExHTTP](https://www.blackhatethicalhacking.com/tools/hexhttp/)
 
 ## Web Tools
